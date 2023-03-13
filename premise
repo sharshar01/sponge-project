@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+     
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SpongeBob Squarepants</title>
+  <center><h1 >SpongeBob</h1></center>
+  
+</head>
+<body style="background-color: #fdfbf6;">
+    
+  
+  <div class="topnav">
+      <a href="Home1.html"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/800px-SpongeBob
+            _SquarePants_logo_by_Nickelodeon.svg.png"alt="Spongebob home" style="width:55px;height:60px;"></a>
+  <a class="active" href="#home1">Home</a>
+  <a href="#premise">Premise</a>
+  <a href="#production">Production</a>
+  <a href="#broadcast">Broadcast</a>
+</div>
+    
+</body>
+</html>
