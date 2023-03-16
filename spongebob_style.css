@@ -2,9 +2,11 @@ h1 {
     text-align: center;
 }
 
-
-body {font-family: gill sans, sans-serif;
-      background-color: #fdfbf6;
+body {
+    font-family: gill sans, sans-serif;
+    background-image: url('sand%20bg.jpg');
+    background-repeat: no-repeat;
+  background-size: 1560px;
    }
    
    .topnav {
@@ -31,6 +33,8 @@ body {font-family: gill sans, sans-serif;
 {
     position: absolute;
     width:70%;
+    margin-top: 100px;
+    margin-bottom: 50px;
     left:15%;
     top:20%;
     background-color: #4fa3ab;
@@ -40,6 +44,8 @@ body {font-family: gill sans, sans-serif;
 
 p {
     text-align: center;
-    padding:90px 50px;
+    padding:90px 40px;
+    margin-right: 60px;
     color: white;
+    
 }

@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: gill sans, sans-serif;
+    background-image: url('sand%20bg.jpg');
+    background-repeat: no-repeat;
+  background-size: 1560px;
+   }
+   
+   .topnav {
+  overflow: hidden;
+  background-color: #4fa3ab;
+}
+
+
+   .topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+   .topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.pos_cen
+{
+    position: absolute;
+    background-color: #4fa3ab;
+    padding: 10px;
+    margin-top: 70px;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+    text-indent: 20px;
+}
+
+h4{
+    color:whitesmoke;
+    text-indent: 40px;
+}
+
+ p{
+    color: white;
+    
+}
